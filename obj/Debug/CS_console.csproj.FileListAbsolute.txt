@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS_console\CS_console\bin\Debug\CS_console.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS_console\CS_console\bin\Debug\CS_console.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS_console\CS_console\bin\Debug\CS_console.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS_console\CS_console\obj\Debug\CS_console.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\CS_console\CS_console\obj\Debug\CS_console.pdb

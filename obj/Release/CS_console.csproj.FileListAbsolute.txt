@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\CS_console\CS_console\bin\Release\CS_console.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CS_console\CS_console\bin\Release\CS_console.exe
+c:\users\user\documents\visual studio 2015\Projects\CS_console\CS_console\bin\Release\CS_console.pdb
+c:\users\user\documents\visual studio 2015\Projects\CS_console\CS_console\obj\Release\CS_console.exe
+c:\users\user\documents\visual studio 2015\Projects\CS_console\CS_console\obj\Release\CS_console.pdb
